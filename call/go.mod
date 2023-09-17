@@ -1,0 +1,3 @@
+module ffi
+
+go 1.21.1
